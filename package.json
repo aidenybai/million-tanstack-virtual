@@ -1,0 +1,25 @@
+{
+  "name": "million-tanstack-virtual",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@tanstack/react-virtual": "3.0.0-beta.54",
+    "@vitejs/plugin-react": "^4.0.3",
+    "vite": "^4.4.4"
+  },
+  "dependencies": {
+    "million": "2.5.1-beta.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-lag-radar": "^1.0.0"
+  }
+}
